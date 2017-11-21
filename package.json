@@ -1,0 +1,22 @@
+{
+  "devDependencies": {
+    "lerna": "^2.5.1"
+  },
+  "name": "lerna-example-pkg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackPu/lerna-example-pkg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JackPu/lerna-example-pkg/issues"
+  },
+  "homepage": "https://github.com/JackPu/lerna-example-pkg#readme",
+  "description": ""
+}
